@@ -1,8 +1,8 @@
 # Site settings
-title: Chowdown
+title: Receptari
 email: correuperamerda@hotmail.com
 description: The plain text recipe database for hackers
-baseurl: "/chowdown"
+baseurl: "/receptari"
 twitter_username: clarklab
 github_username:  clarklab
 
