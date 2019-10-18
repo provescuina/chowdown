@@ -84,6 +84,5 @@ for num in data[0].split():
 
 if changes:
     if new_image:
-        print("mv /home/pi/receptari/images/" + image_name + " /home/pi/receptari/images/" + recepta + image_name[-4:])
         os.system("mv /home/pi/receptari/images/" + image_name + " /home/pi/receptari/images/" + recepta + image_name[-4:])
     os.system("make")
