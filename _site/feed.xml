@@ -5,9 +5,23 @@
     <description>The plain text recipe database for hackers</description>
     <link>/receptari/</link>
     <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Oct 2019 03:01:58 +0100</pubDate>
-    <lastBuildDate>Fri, 18 Oct 2019 03:01:58 +0100</lastBuildDate>
+    <pubDate>Fri, 18 Oct 2019 10:12:37 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2019 10:12:37 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Prova1</title>
+        <description>&lt;p&gt;From Jo Mateix&lt;/p&gt;
+</description>
+        <link>/receptari/recipes/Prova1.html</link>
+        <guid isPermaLink="true">/receptari/recipes/Prova1.html</guid>
+        
+        <category>Etiqueta1,</category>
+        
+        <category>Etiqueta2</category>
+        
+        
+      </item>
     
       <item>
         <title>Banana Bread</title>
@@ -133,20 +147,6 @@
         <guid isPermaLink="true">/receptari/recipes/one-minute-muffin.html</guid>
         
         <category>breakfast</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pork Steaks</title>
-        <description>&lt;p&gt;Pork is called “the other white meat”, but this sous vide technique is so dang good I’m gonna graduate it up to “THE white meat”.&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/pork-steaks.html</link>
-        <guid isPermaLink="true">/receptari/recipes/pork-steaks.html</guid>
-        
-        <category>mains,</category>
-        
-        <category>meat</category>
         
         
       </item>
