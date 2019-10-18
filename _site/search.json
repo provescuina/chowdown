@@ -2,15 +2,6 @@
   
     {
     
-	    "title"    : "Prova1",
-		"ingredients"    : "Ingredient1, Ingredient2, ",
-		"image"	   : "Thi Captain.png",
-	    "url"      : "/receptari/recipes/Prova1.html"
-      
-    } ,
-  
-    {
-    
 	    "title"    : "Banana Bread",
 		"ingredients"    : "4 bananas, 1/2 cup butter, 1/2 cup sugar, 2 eggs, 2 cups flour, 1/2 tsp baking soda, 1 tsp baking powder, pinch salt, 1/4 cup nuts (we like pecans), ",
 		"image"	   : "banana-bread.jpg",
