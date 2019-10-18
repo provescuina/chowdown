@@ -5,23 +5,9 @@
     <description>The plain text recipe database for hackers</description>
     <link>/receptari/</link>
     <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Oct 2019 10:44:33 +0100</pubDate>
-    <lastBuildDate>Fri, 18 Oct 2019 10:44:33 +0100</lastBuildDate>
+    <pubDate>Fri, 18 Oct 2019 11:20:44 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2019 11:20:44 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
-    
-      <item>
-        <title>Prova1</title>
-        <description>&lt;p&gt;From Jo Mateix&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/Prova1.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Prova1.html</guid>
-        
-        <category>Etiqueta1,</category>
-        
-        <category>Etiqueta2</category>
-        
-        
-      </item>
     
       <item>
         <title>Banana Bread</title>
@@ -77,76 +63,6 @@
         <category>party,</category>
         
         <category>meat</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Green Chile Stew</title>
-        <description>&lt;p&gt;This is a simple one, consisting of a pre-made soup mix and whatever you’ve got around the kitchen (or campsite). Feel free to sub/swap/switch anything in the ingredient list— anything’s fair game!&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/green-chile-stew.html</link>
-        <guid isPermaLink="true">/receptari/recipes/green-chile-stew.html</guid>
-        
-        <category>sides,</category>
-        
-        <category>soups</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Mongolian Beef</title>
-        <description>&lt;p&gt;A quick go-to dinner. Can be made with almost any meat. I often used ground. Works perfect for lettuce wraps. Try replacing the onion with thinly sliced fennel.&lt;/p&gt;
-
-&lt;p&gt;Optional: spice this thing up, with a dose of your favorite chili paste/sauce.&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/mongolian-beef.html</link>
-        <guid isPermaLink="true">/receptari/recipes/mongolian-beef.html</guid>
-        
-        <category>mains,</category>
-        
-        <category>meat</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>New York Strip</title>
-        <description>&lt;p&gt;Cooking a steak in a water bath is the ultimate, both in terms of flavor and laziness. Dial in a precise temperature, then go take a nap.&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/new-york-strip.html</link>
-        <guid isPermaLink="true">/receptari/recipes/new-york-strip.html</guid>
-        
-        <category>mains,</category>
-        
-        <category>meat</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Nilla Wafer French Toast</title>
-        <description>&lt;p&gt;From a weird Sunday morning when I realized we didn’t have bread. Solid hitter. Served with &lt;a href=&quot;https://amzn.to/2QBpGCH&quot;&gt;Treehive&lt;/a&gt; Syrup, my new favorite breakfast obsession (it’s mixed with honey, vanilla, and cinnamon, oof).&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/nilla-wafer-french-toast.html</link>
-        <guid isPermaLink="true">/receptari/recipes/nilla-wafer-french-toast.html</guid>
-        
-        <category>breakfast,</category>
-        
-        <category>baking</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>One Minute Muffin</title>
-        <description>&lt;p&gt;This flax muffin is quick, vertsatile (just mix in other goodies), and only makes one at a time, so you’ve got no huge tray to tempt you. Custom muffins every morning!&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/one-minute-muffin.html</link>
-        <guid isPermaLink="true">/receptari/recipes/one-minute-muffin.html</guid>
-        
-        <category>breakfast</category>
         
         
       </item>
