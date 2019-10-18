@@ -101,6 +101,15 @@
   
     {
     
+	    "title"    : "recepta 2",
+		"ingredients"    : "amor, ",
+		"image"	   : "you-kids.png",
+	    "url"      : "/receptari/recipes/recepta%202.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Red Berry Tart",
 		
 		"image"	   : "red-berry-tart.jpg",
