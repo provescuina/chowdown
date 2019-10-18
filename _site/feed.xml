@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chowdown</title>
+    <title>Receptari</title>
     <description>The plain text recipe database for hackers</description>
-    <link>http://localhost:4000/chowdown/</link>
-    <atom:link href="http://localhost:4000/chowdown/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Oct 2019 20:13:14 +0200</pubDate>
-    <lastBuildDate>Tue, 15 Oct 2019 20:13:14 +0200</lastBuildDate>
+    <link>/receptari/</link>
+    <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 18 Oct 2019 03:01:58 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2019 03:01:58 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Banana Bread</title>
         <description>&lt;p&gt;From Angie’s mom&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/banana-bread.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/banana-bread.html</guid>
+        <link>/receptari/recipes/banana-bread.html</link>
+        <guid isPermaLink="true">/receptari/recipes/banana-bread.html</guid>
         
         <category>breakfast,</category>
         
@@ -27,8 +27,8 @@
         <title>Broccoli Beer Cheese Soup</title>
         <description>&lt;p&gt;This recipe is inspired by one of my favorites, Gourmand’s Beer Cheese Soup, which uses Shiner Bock. Feel free to use whatever you want, then go to &lt;a href=&quot;http://lovethysandwich.com&quot;&gt;Gourmand’s&lt;/a&gt; to have the real thing.&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/broccoli-cheese-soup.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/broccoli-cheese-soup.html</guid>
+        <link>/receptari/recipes/broccoli-cheese-soup.html</link>
+        <guid isPermaLink="true">/receptari/recipes/broccoli-cheese-soup.html</guid>
         
         <category>sides,</category>
         
@@ -41,8 +41,8 @@
         <title>Crockpot Buffalo Chicken</title>
         <description>&lt;p&gt;This is a party favorite, perfect for a Super Bowl or a game night. It takes a long time, but like most slow cooker recipes, is easy as hell. Bonus: guests love it.&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/crockpot-buffalo-chicken.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/crockpot-buffalo-chicken.html</guid>
+        <link>/receptari/recipes/crockpot-buffalo-chicken.html</link>
+        <guid isPermaLink="true">/receptari/recipes/crockpot-buffalo-chicken.html</guid>
         
         <category>mains,</category>
         
@@ -57,8 +57,8 @@
         <title>Downtown Marinade</title>
         <description>&lt;p&gt;This is my go-to marinade for everything from steaks to shrimp to fajitas to pork. Seriously, if I’m cooking or grilling meat, there’s a good chance this is what it’s soaking in. It’s perfect for “street meat” aka cart or truck, like tacos and wraps and kebabs and skewers and everything in between. Start with this base, add spice or herb as desired.&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/downtown-chowdown-marinade.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/downtown-chowdown-marinade.html</guid>
+        <link>/receptari/recipes/downtown-chowdown-marinade.html</link>
+        <guid isPermaLink="true">/receptari/recipes/downtown-chowdown-marinade.html</guid>
         
         <category>party,</category>
         
@@ -71,8 +71,8 @@
         <title>Green Chile Stew</title>
         <description>&lt;p&gt;This is a simple one, consisting of a pre-made soup mix and whatever you’ve got around the kitchen (or campsite). Feel free to sub/swap/switch anything in the ingredient list— anything’s fair game!&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/green-chile-stew.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/green-chile-stew.html</guid>
+        <link>/receptari/recipes/green-chile-stew.html</link>
+        <guid isPermaLink="true">/receptari/recipes/green-chile-stew.html</guid>
         
         <category>sides,</category>
         
@@ -87,8 +87,8 @@
 
 &lt;p&gt;Optional: spice this thing up, with a dose of your favorite chili paste/sauce.&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/mongolian-beef.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/mongolian-beef.html</guid>
+        <link>/receptari/recipes/mongolian-beef.html</link>
+        <guid isPermaLink="true">/receptari/recipes/mongolian-beef.html</guid>
         
         <category>mains,</category>
         
@@ -101,8 +101,8 @@
         <title>New York Strip</title>
         <description>&lt;p&gt;Cooking a steak in a water bath is the ultimate, both in terms of flavor and laziness. Dial in a precise temperature, then go take a nap.&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/new-york-strip.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/new-york-strip.html</guid>
+        <link>/receptari/recipes/new-york-strip.html</link>
+        <guid isPermaLink="true">/receptari/recipes/new-york-strip.html</guid>
         
         <category>mains,</category>
         
@@ -115,8 +115,8 @@
         <title>Nilla Wafer French Toast</title>
         <description>&lt;p&gt;From a weird Sunday morning when I realized we didn’t have bread. Solid hitter. Served with &lt;a href=&quot;https://amzn.to/2QBpGCH&quot;&gt;Treehive&lt;/a&gt; Syrup, my new favorite breakfast obsession (it’s mixed with honey, vanilla, and cinnamon, oof).&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/nilla-wafer-french-toast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/nilla-wafer-french-toast.html</guid>
+        <link>/receptari/recipes/nilla-wafer-french-toast.html</link>
+        <guid isPermaLink="true">/receptari/recipes/nilla-wafer-french-toast.html</guid>
         
         <category>breakfast,</category>
         
@@ -129,8 +129,8 @@
         <title>One Minute Muffin</title>
         <description>&lt;p&gt;This flax muffin is quick, vertsatile (just mix in other goodies), and only makes one at a time, so you’ve got no huge tray to tempt you. Custom muffins every morning!&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/one-minute-muffin.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/one-minute-muffin.html</guid>
+        <link>/receptari/recipes/one-minute-muffin.html</link>
+        <guid isPermaLink="true">/receptari/recipes/one-minute-muffin.html</guid>
         
         <category>breakfast</category>
         
@@ -141,8 +141,8 @@
         <title>Pork Steaks</title>
         <description>&lt;p&gt;Pork is called “the other white meat”, but this sous vide technique is so dang good I’m gonna graduate it up to “THE white meat”.&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/pork-steaks.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/pork-steaks.html</guid>
+        <link>/receptari/recipes/pork-steaks.html</link>
+        <guid isPermaLink="true">/receptari/recipes/pork-steaks.html</guid>
         
         <category>mains,</category>
         
