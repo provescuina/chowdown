@@ -5,23 +5,9 @@
     <description>The plain text recipe database for hackers</description>
     <link>/receptari/</link>
     <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Oct 2019 11:22:59 +0100</pubDate>
-    <lastBuildDate>Fri, 18 Oct 2019 11:22:59 +0100</lastBuildDate>
+    <pubDate>Fri, 18 Oct 2019 11:27:23 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2019 11:27:23 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
-    
-      <item>
-        <title>Prova1</title>
-        <description>&lt;p&gt;From Jo Mateix&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/Prova1.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Prova1.html</guid>
-        
-        <category>Etiqueta1,</category>
-        
-        <category>Etiqueta2</category>
-        
-        
-      </item>
     
       <item>
         <title>Banana Bread</title>
