@@ -5,11 +5,13 @@ import email
 
 
 def generateRecipeFile(email_content, fileName):
+    global recepta
     content = email_content.splitlines()
     recipe_name = content[0][19:]
+    recepta = recipe_name
     tags = content[1][11:]
     author = content[2][7:]
-    path = os.path.join("./_recipes/", recipe_name+".md")
+    path = os.path.join("/home/pi/receptari/_recipes/", recipe_name+".md")
     if os.path.isfile(path):
         open(path, 'w').close()
     f = open(path, "w+")
@@ -33,6 +35,9 @@ def generateRecipeFile(email_content, fileName):
     f.close()
 
 changes = False
+new_image = False
+image_name = ''
+recepta = ''
 email_user = 'carminaruizllaurado@gmail.com'
 email_pass = 'ribes2005'
 mail = imaplib.IMAP4_SSL('imap.gmail.com',993)
@@ -59,11 +64,13 @@ for num in data[0].split():
             continue
         fileName = part.get_filename()        
         if bool(fileName):
-            filePath = os.path.join('./images/', fileName)
+            filePath = os.path.join('/home/pi/receptari/images/', fileName)
             if not os.path.isfile(filePath) :
                 fp = open(filePath, 'wb')
                 fp.write(part.get_payload(decode=True))
-                fp.close()            
+                fp.close( )
+                new_image = True
+                image_name = fileName
             subject = str(email_message).split("Subject: ", 1)[1].split("\nTo:", 1)[0]
 
     for response_part in data:
@@ -76,4 +83,6 @@ for num in data[0].split():
                     changes = True
 
 if changes:
+    if new_image:
+        os.system("mv /home/pi/receptari/images/" + image_name + " /home/pi/receptari/images/" + recepta + image_name[:-4])
     os.system("make")
