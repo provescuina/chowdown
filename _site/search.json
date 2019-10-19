@@ -2,46 +2,19 @@
   
     {
     
-	    "title"    : "Banana Bread",
-		"ingredients"    : "4 bananas, 1/2 cup butter, 1/2 cup sugar, 2 eggs, 2 cups flour, 1/2 tsp baking soda, 1 tsp baking powder, pinch salt, 1/4 cup nuts (we like pecans), ",
-		"image"	   : "banana-bread.jpg",
-	    "url"      : "/receptari/recipes/banana-bread.html"
+	    "title"    : "",
+		
+		"image"	   : "",
+	    "url"      : "/receptari/recipes/Creps.html"
       
     } ,
   
     {
     
-	    "title"    : "Broccoli Beer Cheese Soup",
-		"ingredients"    : "4 tablespoons butter, 1 cup diced onion, 1/2 cup shredded carrot, 1/2 cup diced celery, 1 tablespoon garlic, 1/4 cup flour, 1 quart chicken broth, 1 cup heavy cream, 10 ounces muenster cheese, 1 cup white white wine, 1 cup pale beer, 1 teaspoon Worcestershire sauce, 1/2 teaspoon hot sauce, ",
-		"image"	   : "broccoli-beer-cheese-soup.jpg",
-	    "url"      : "/receptari/recipes/broccoli-cheese-soup.html"
-      
-    } ,
-  
-    {
-    
-	    "title"    : "Crockpot Buffalo Chicken",
-		"ingredients"    : "6-8 chicken breasts, 1 packet ranch mix, 1 bottle Frank&#39;s Red Hot, 1 stick of butter, ",
-		"image"	   : "crockpot-buffalo-chicken.jpg",
-	    "url"      : "/receptari/recipes/crockpot-buffalo-chicken.html"
-      
-    } ,
-  
-    {
-    
-	    "title"    : "Downtown Marinade",
-		"ingredients"    : "1 cup Italian dressing, 1/4 cup soy sauce, 1/4 cup chili paste (like [sambal oelek](https://amzn.to/2NuqquF)), 1/4 sugar, dash hot sauce (like Texas Champagne or Yellowbird), ",
-		"image"	   : "downtown-marinade.jpg",
-	    "url"      : "/receptari/recipes/downtown-chowdown-marinade.html"
-      
-    } ,
-  
-    {
-    
-	    "title"    : "recepta 2",
-		"ingredients"    : "amor, ",
-		"image"	   : "you-kids.png",
-	    "url"      : "/receptari/recipes/recepta%202.html"
+	    "title"    : "",
+		
+		"image"	   : "",
+	    "url"      : "/receptari/recipes/Lioneses.html"
       
     } 
   

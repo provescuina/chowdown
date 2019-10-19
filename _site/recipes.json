@@ -2,27 +2,12 @@
 
 [
     {
-        "title": "Banana Bread",
-        "image": "images/large/banana-bread.jpg"
+        "title": "",
+        "image": "images/large/"
     },
 
     {
-        "title": "Broccoli Beer Cheese Soup",
-        "image": "images/large/broccoli-beer-cheese-soup.jpg"
-    },
-
-    {
-        "title": "Crockpot Buffalo Chicken",
-        "image": "images/large/crockpot-buffalo-chicken.jpg"
-    },
-
-    {
-        "title": "Downtown Marinade",
-        "image": "images/large/downtown-marinade.jpg"
-    },
-
-    {
-        "title": "recepta 2",
-        "image": "images/large/you-kids.png"
+        "title": "",
+        "image": "images/large/"
     }
 ]

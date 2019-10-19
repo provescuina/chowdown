@@ -5,76 +5,26 @@
     <description>The plain text recipe database for hackers</description>
     <link>/receptari/</link>
     <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Oct 2019 18:47:19 +0100</pubDate>
-    <lastBuildDate>Sat, 19 Oct 2019 18:47:19 +0100</lastBuildDate>
+    <pubDate>Sat, 19 Oct 2019 20:28:43 +0100</pubDate>
+    <lastBuildDate>Sat, 19 Oct 2019 20:28:43 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Banana Bread</title>
-        <description>&lt;p&gt;From Angie’s mom&lt;/p&gt;
+        <title></title>
+        <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/banana-bread.html</link>
-        <guid isPermaLink="true">/receptari/recipes/banana-bread.html</guid>
-        
-        <category>breakfast,</category>
-        
-        <category>baking</category>
+        <link>/receptari/recipes/Creps.html</link>
+        <guid isPermaLink="true">/receptari/recipes/Creps.html</guid>
         
         
       </item>
     
       <item>
-        <title>Broccoli Beer Cheese Soup</title>
-        <description>&lt;p&gt;This recipe is inspired by one of my favorites, Gourmand’s Beer Cheese Soup, which uses Shiner Bock. Feel free to use whatever you want, then go to &lt;a href=&quot;http://lovethysandwich.com&quot;&gt;Gourmand’s&lt;/a&gt; to have the real thing.&lt;/p&gt;
+        <title></title>
+        <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/broccoli-cheese-soup.html</link>
-        <guid isPermaLink="true">/receptari/recipes/broccoli-cheese-soup.html</guid>
-        
-        <category>sides,</category>
-        
-        <category>soups</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Crockpot Buffalo Chicken</title>
-        <description>&lt;p&gt;This is a party favorite, perfect for a Super Bowl or a game night. It takes a long time, but like most slow cooker recipes, is easy as hell. Bonus: guests love it.&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/crockpot-buffalo-chicken.html</link>
-        <guid isPermaLink="true">/receptari/recipes/crockpot-buffalo-chicken.html</guid>
-        
-        <category>mains,</category>
-        
-        <category>grill,</category>
-        
-        <category>party</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Downtown Marinade</title>
-        <description>&lt;p&gt;This is my go-to marinade for everything from steaks to shrimp to fajitas to pork. Seriously, if I’m cooking or grilling meat, there’s a good chance this is what it’s soaking in. It’s perfect for “street meat” aka cart or truck, like tacos and wraps and kebabs and skewers and everything in between. Start with this base, add spice or herb as desired.&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/downtown-chowdown-marinade.html</link>
-        <guid isPermaLink="true">/receptari/recipes/downtown-chowdown-marinade.html</guid>
-        
-        <category>party,</category>
-        
-        <category>meat</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>recepta 2</title>
-        <description>&lt;p&gt;From manel&lt;/p&gt;
-</description>
-        <link>/receptari/recipes/recepta%202.html</link>
-        <guid isPermaLink="true">/receptari/recipes/recepta%202.html</guid>
-        
-        <category>etiqueta1</category>
+        <link>/receptari/recipes/Lioneses.html</link>
+        <guid isPermaLink="true">/receptari/recipes/Lioneses.html</guid>
         
         
       </item>
