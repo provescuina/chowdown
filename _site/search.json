@@ -2,8 +2,8 @@
   
     {
     
-	    "title"    : "",
-		
+	    "title"    : "Creps",
+		"ingredients"    : "125g de farina de força, 200ml de llet, 2 ous, 35g de mantega, 1 cullerada de sucre, ",
 		"image"	   : "",
 	    "url"      : "/receptari/recipes/Creps.html"
       
@@ -11,9 +11,9 @@
   
     {
     
-	    "title"    : "",
-		
-		"image"	   : "",
+	    "title"    : "Lioneses",
+		"ingredients"    : "150g de farina fluixa (bizcochona), 100g de mantega, 3 ous, 125ml aigua, 125ml llet, ",
+		"image"	   : "Lioneses.jpg",
 	    "url"      : "/receptari/recipes/Lioneses.html"
       
     } 

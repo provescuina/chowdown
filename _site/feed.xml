@@ -5,26 +5,30 @@
     <description>The plain text recipe database for hackers</description>
     <link>/receptari/</link>
     <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Oct 2019 20:28:43 +0100</pubDate>
-    <lastBuildDate>Sat, 19 Oct 2019 20:28:43 +0100</lastBuildDate>
+    <pubDate>Sat, 19 Oct 2019 20:39:18 +0100</pubDate>
+    <lastBuildDate>Sat, 19 Oct 2019 20:39:18 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title></title>
+        <title>Creps</title>
         <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
         <link>/receptari/recipes/Creps.html</link>
         <guid isPermaLink="true">/receptari/recipes/Creps.html</guid>
         
+        <category>Postre</category>
+        
         
       </item>
     
       <item>
-        <title></title>
+        <title>Lioneses</title>
         <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
         <link>/receptari/recipes/Lioneses.html</link>
         <guid isPermaLink="true">/receptari/recipes/Lioneses.html</guid>
+        
+        <category>Postre</category>
         
         
       </item>
