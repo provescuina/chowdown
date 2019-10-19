@@ -1,0 +1,37 @@
+make: Entering directory '/home/pi/receptari'
+/usr/local/bin/jekyll build
+Configuration file: /home/pi/receptari/_config.yml
+            Source: /home/pi/receptari
+       Destination: /home/pi/receptari/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.0.0   Please append `--trace` to the `build` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+make: *** [Makefile:2: default] Error 1
+make: Leaving directory '/home/pi/receptari'
+mv: cannot stat '/home/pi/receptari/images/you-kids.png': No such file or directory
+make: Entering directory '/home/pi/receptari'
+/usr/local/bin/jekyll build
+Configuration file: /home/pi/receptari/_config.yml
+            Source: /home/pi/receptari
+       Destination: /home/pi/receptari/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.0.0   Please append `--trace` to the `build` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+make: *** [Makefile:2: default] Error 1
+make: Leaving directory '/home/pi/receptari'
+mv /home/pi/receptari/images/'you-kids.png' /home/pi/receptari/images/'recepta 2.png'
+mv /home/pi/receptari/images/'you-kids.png' /home/pi/receptari/images/'recepta 2.png'
+Traceback (most recent call last):
+  File "autoupload.py", line 92, in <module>
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "autoupload.py", line 92, in <module>
+    time.sleep(60)
+KeyboardInterrupt
