@@ -34,15 +34,6 @@
 		"image"	   : "downtown-marinade.jpg",
 	    "url"      : "/receptari/recipes/downtown-chowdown-marinade.html"
       
-    } ,
-  
-    {
-    
-	    "title"    : "recepta 2",
-		"ingredients"    : "amor, ",
-		"image"	   : "you-kids.png",
-	    "url"      : "/receptari/recipes/recepta%202.html"
-      
     } 
   
 ]
