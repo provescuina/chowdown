@@ -29,5 +29,10 @@
     {
         "title": "Pastís de Mousse",
         "image": "images/large/Pastís de Mousse.jpg"
+    },
+
+    {
+        "title": "Pastís de formatge",
+        "image": "images/large/"
     }
 ]

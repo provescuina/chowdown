@@ -52,6 +52,15 @@
 		"image"	   : "Pastís de Mousse.jpg",
 	    "url"      : "/receptari/recipes/Past%C3%ADs%20de%20Mousse.html"
       
+    } ,
+  
+    {
+    
+	    "title"    : "Pastís de formatge",
+		"ingredients"    : "2 iogurts, 3 ous, 3 cullerades de maizena, 7 culledares de sucre, 1 cullerada de sucre de vainilla (_opcional_), 200g formatge fresc pasteuritzat, ",
+		"image"	   : "",
+	    "url"      : "/receptari/recipes/Past%C3%ADs%20de%20formatge.html"
+      
     } 
   
 ]
