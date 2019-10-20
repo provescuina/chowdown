@@ -7,7 +7,22 @@
     },
 
     {
+        "title": "",
+        "image": "images/large/"
+    },
+
+    {
+        "title": "",
+        "image": "images/large/"
+    },
+
+    {
         "title": "Lioneses",
         "image": "images/large/Lioneses.jpg"
+    },
+
+    {
+        "title": "Pa de pessic",
+        "image": "images/large/"
     }
 ]

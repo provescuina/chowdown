@@ -11,7 +11,7 @@ def generateRecipeFile(email_content, fileName):
     recepta = recipe_name
     tags = content[1][11:]
     author = content[2][7:]
-    path = os.path.join("/home/pi/receptari/_recipes/", recipe_name+".md")
+    path = os.path.join("/home/pi/receptari/_recipes/", recipe_name + ".md")
     if os.path.isfile(path):
         open(path, 'w').close()
     f = open(path, "w+")
@@ -33,6 +33,7 @@ def generateRecipeFile(email_content, fileName):
     f.write("---\n\n")
     f.write("From " + author + "\n")
     f.close()
+    os.chmod("/home/pi/receptari/_recipes/" + recipe_name + ".md", 0o777)
 
 changes = False
 new_image = False
@@ -71,6 +72,7 @@ while True:
                     fp = open(filePath, 'wb')
                     fp.write(part.get_payload(decode=True))
                     fp.close( )
+                    os.chmod("/home/pi/receptari/images/" + fileName, 0o777)
                     new_image = True
                     image_name = fileName
                 subject = str(email_message).split("Subject: ", 1)[1].split("\nTo:", 1)[0]

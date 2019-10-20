@@ -5,8 +5,8 @@
     <description>The plain text recipe database for hackers</description>
     <link>/receptari/</link>
     <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Oct 2019 20:46:37 +0100</pubDate>
-    <lastBuildDate>Sat, 19 Oct 2019 20:46:37 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2019 16:08:13 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2019 16:08:13 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -22,6 +22,26 @@
       </item>
     
       <item>
+        <title></title>
+        <description>&lt;p&gt;From Albert&lt;/p&gt;
+</description>
+        <link>/receptari/recipes/Flams.html</link>
+        <guid isPermaLink="true">/receptari/recipes/Flams.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;From Laura&lt;/p&gt;
+</description>
+        <link>/receptari/recipes/Galetes%20de%20mantega.html</link>
+        <guid isPermaLink="true">/receptari/recipes/Galetes%20de%20mantega.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Lioneses</title>
         <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
@@ -29,6 +49,18 @@
         <guid isPermaLink="true">/receptari/recipes/Lioneses.html</guid>
         
         <category>Postre</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pa de pessic</title>
+        <description>&lt;p&gt;From Carmina&lt;/p&gt;
+</description>
+        <link>/receptari/recipes/Pa%20de%20pessic.html</link>
+        <guid isPermaLink="true">/receptari/recipes/Pa%20de%20pessic.html</guid>
+        
+        <category>Postres</category>
         
         
       </item>

@@ -11,10 +11,37 @@
   
     {
     
+	    "title"    : "",
+		
+		"image"	   : "",
+	    "url"      : "/receptari/recipes/Flams.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "",
+		
+		"image"	   : "",
+	    "url"      : "/receptari/recipes/Galetes%20de%20mantega.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Lioneses",
 		"ingredients"    : "150g de farina fluixa (bizcochona), 100g de mantega, 3 ous, 125ml aigua, 125ml llet, ",
 		"image"	   : "Lioneses.jpg",
 	    "url"      : "/receptari/recipes/Lioneses.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Pa de pessic",
+		"ingredients"    : "4 ous, 100g de farina, 100g de sucre, Una culleradeta de llevat tipus Royal, ",
+		"image"	   : "",
+	    "url"      : "/receptari/recipes/Pa%20de%20pessic.html"
       
     } 
   
