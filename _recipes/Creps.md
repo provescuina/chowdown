@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Creps"
-image: 
+image: Creps.jpg
 tags: Postre
 
 ingredients:
