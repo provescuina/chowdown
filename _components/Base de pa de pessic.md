@@ -13,7 +13,7 @@ ingredients:
 directions:
 - Barreges l'ou i el sucre (blanquejar). Un cop ben barrejat si afageix la farina.
 - Es tira tota la barreja en un motlle untat amb mantega i enfarinat.
-- S'enforna a 180=C2=BA durant 15 minuts.
+- S'enforna a 180º durant 15 minuts.
 - Es retira i es deixa refredar.
 
 ---
