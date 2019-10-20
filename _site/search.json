@@ -43,6 +43,15 @@
 		"image"	   : "",
 	    "url"      : "/receptari/recipes/Pa%20de%20pessic.html"
       
+    } ,
+  
+    {
+    
+	    "title"    : "Pastís de Mousse",
+		
+		"image"	   : "Pastís de Mousse.jpg",
+	    "url"      : "/receptari/recipes/Past%C3%ADs%20de%20Mousse.html"
+      
     } 
   
 ]

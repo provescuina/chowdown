@@ -87,6 +87,7 @@ while True:
                         changes = True
 
     if changes:
+        os.system("sudo chown -R pi:pi /home/pi/receptari/")
         if new_image:
             print("mv /home/pi/receptari/images/'" + image_name + "' /home/pi/receptari/images/'" + recepta + image_name[-4:]+ "'")
             os.system("mv /home/pi/receptari/images/'" + image_name + "' /home/pi/receptari/images/'" + recepta + image_name[-4:]+ "'")

@@ -5,8 +5,8 @@
     <description>The plain text recipe database for hackers</description>
     <link>/receptari/</link>
     <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Oct 2019 16:14:05 +0100</pubDate>
-    <lastBuildDate>Sun, 20 Oct 2019 16:14:05 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2019 16:54:09 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2019 16:54:09 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -67,6 +67,18 @@
         <guid isPermaLink="true">/receptari/recipes/Pa%20de%20pessic.html</guid>
         
         <category>Postres</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pastís de Mousse</title>
+        <description>&lt;p&gt;From Carmina&lt;/p&gt;
+</description>
+        <link>/receptari/recipes/Past%C3%ADs%20de%20Mousse.html</link>
+        <guid isPermaLink="true">/receptari/recipes/Past%C3%ADs%20de%20Mousse.html</guid>
+        
+        <category>Postre</category>
         
         
       </item>
