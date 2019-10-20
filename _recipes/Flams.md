@@ -11,8 +11,7 @@ ingredients:
 - 125g de sucre
 
 directions:
-- Barrejar tot en un pot, i abocar als recipients amb base de carmel. Posar
-al 180=C2=BA al forn al bany maria durant 30-40'.
+- Barrejar tot en un pot, i abocar als recipients amb base de carmel. Posar al 180º al forn al bany maria durant 30-40'.
 
 ---
 

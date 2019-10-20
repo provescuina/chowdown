@@ -5,8 +5,8 @@
     <description>The plain text recipe database for hackers</description>
     <link>/receptari/</link>
     <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Oct 2019 16:08:13 +0100</pubDate>
-    <lastBuildDate>Sun, 20 Oct 2019 16:08:13 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2019 16:14:05 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2019 16:14:05 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -22,21 +22,27 @@
       </item>
     
       <item>
-        <title></title>
+        <title>Flams</title>
         <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
         <link>/receptari/recipes/Flams.html</link>
         <guid isPermaLink="true">/receptari/recipes/Flams.html</guid>
         
+        <category>Postres</category>
+        
         
       </item>
     
       <item>
-        <title></title>
+        <title>Galetes de mantega</title>
         <description>&lt;p&gt;From Laura&lt;/p&gt;
 </description>
         <link>/receptari/recipes/Galetes%20de%20mantega.html</link>
         <guid isPermaLink="true">/receptari/recipes/Galetes%20de%20mantega.html</guid>
+        
+        <category>Postres,</category>
+        
+        <category>Nadal</category>
         
         
       </item>
