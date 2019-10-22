@@ -3,7 +3,7 @@
 layout: recipe
 title: "Pastís de Mousse"
 image: Pastís de Mousse.jpg
-tags: Postre
+tags: Postres
 
 directions:
 - Preparar una base pel motlle.

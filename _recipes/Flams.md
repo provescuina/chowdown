@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Flams"
-image: 
+image: Flams.jpg
 tags: Postres
 
 ingredients:
