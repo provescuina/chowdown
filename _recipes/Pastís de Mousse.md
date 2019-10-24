@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Pastís de Mousse"
-image: Pastís de Mousse.jpg
+image: Pastis de Mousse.jpg
 tags: Postres
 
 directions:
