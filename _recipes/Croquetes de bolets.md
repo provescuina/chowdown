@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Croquetes de bolets"
-image: Croquetes de bolets.jpg
+image: Croquetes_de_bolets.jpg
 tags: Entrant
 
 ingredients:
