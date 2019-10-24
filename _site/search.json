@@ -11,6 +11,15 @@
   
     {
     
+	    "title"    : "",
+		
+		"image"	   : "",
+	    "url"      : "/receptari/recipes/Croquetes%20de%20bolets.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Flams",
 		"ingredients"    : "1/2l de llet, 4 ous, 125g de sucre, ",
 		"image"	   : "Flams.jpg",

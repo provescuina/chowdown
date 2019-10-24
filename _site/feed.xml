@@ -5,8 +5,8 @@
     <description>The plain text recipe database for hackers</description>
     <link>/receptari/</link>
     <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Oct 2019 12:27:41 +0100</pubDate>
-    <lastBuildDate>Tue, 22 Oct 2019 12:27:41 +0100</lastBuildDate>
+    <pubDate>Thu, 24 Oct 2019 16:57:32 +0100</pubDate>
+    <lastBuildDate>Thu, 24 Oct 2019 16:57:32 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -17,6 +17,16 @@
         <guid isPermaLink="true">/receptari/recipes/Creps.html</guid>
         
         <category>Postre</category>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;From Carmina&lt;/p&gt;
+</description>
+        <link>/receptari/recipes/Croquetes%20de%20bolets.html</link>
+        <guid isPermaLink="true">/receptari/recipes/Croquetes%20de%20bolets.html</guid>
         
         
       </item>
