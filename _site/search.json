@@ -56,6 +56,15 @@
   
     {
     
+	    "title"    : "Panellets",
+		"ingredients"    : "250g farina d&#39;ametlla, 250g de sucre, dues patates petites, cireres comfitades, coco ratllat, essència de llimona, 100g ametlla a cuadrets, 50g de pinyons, 1 ou, ",
+		"image"	   : "Panellets.jpg",
+	    "url"      : "/receptari/recipes/Panellets.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Pastís de Mousse",
 		
 		"image"	   : "Pastís_de_Mousse.jpg",
