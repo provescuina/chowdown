@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Pa de pessic"
-image: 
+image: Pa_de_pessic.jpg
 tags: Postres
 
 ingredients:
