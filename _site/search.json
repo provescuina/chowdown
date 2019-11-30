@@ -76,8 +76,17 @@
     
 	    "title"    : "Pastís de formatge",
 		"ingredients"    : "2 iogurts, 3 ous, 3 cullerades de Maizena, 7 culledares de sucre, 1 cullerada de sucre de vainilla (_opcional_), 200g de formatge fresc pasteuritzat, ",
-		"image"	   : "",
+		"image"	   : "Pastís_de_formatge.jpg",
 	    "url"      : "/receptari/recipes/Past%C3%ADs%20de%20formatge.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Xuxos de Crema",
+		
+		"image"	   : "Xuxos_de_Crema.jpg",
+	    "url"      : "/receptari/recipes/Xuxos%20de%20Crema.html"
       
     } 
   

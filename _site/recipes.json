@@ -43,6 +43,11 @@
 
     {
         "title": "Pastís de formatge",
-        "image": "images/large/"
+        "image": "images/large/Pastís_de_formatge.jpg"
+    },
+
+    {
+        "title": "Xuxos de Crema",
+        "image": "images/large/Xuxos_de_Crema.jpg"
     }
 ]

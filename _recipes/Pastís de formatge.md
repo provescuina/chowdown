@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Pastís de formatge"
-image: 
+image: Pastís_de_formatge.jpg
 tags: Postres
 
 ingredients:
