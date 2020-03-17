@@ -1,4 +1,37 @@
-<a class="site-title fixed bg-blue p1 no-line-height top-0 left-0 z4" href="{{ site.baseurl }}/">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Top Navigation Menu -->
+<div class="topnav">
+  <a href="{{ site.baseurl }}/" class="active">
     {% include chowdown-logo-white.svg %}
-  <h1 class="hide">{{ site.title }}</h1>
-</a>
+    Home
+  </a>
+  <!-- Navigation links (hidden by default) -->
+  <div id="myLinks">
+    <a href="{{ site.baseurl }}/search">
+      {% include search.svg %}
+      Search
+    </a>
+    <a href="{{ site.baseurl }}/tags">
+      {% include tag.svg %}
+      Tags
+    </a>
+    <a href="{{ site.baseurl }}/components">
+      {% include component.svg %}
+      Components
+    </a>
+    <a href="{{ site.baseurl }}/new_component">
+      {% include plus.svg %}
+      New Component
+    </a>
+    <a href="{{ site.baseurl }}/new">
+      {% include plus.svg %}
+      New Recipe
+    </a>
+  </div>
+
+  <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+  <a href="javascript:void(0);" class="icon" onclick="toggleNavBar()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>

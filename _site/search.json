@@ -1,93 +1,149 @@
 [
   
     {
-    
 	    "title"    : "Creps",
-		"ingredients"    : "125g de farina de força, 200ml de llet, 2 ous, 35g de mantega, 1 cullerada de sucre, ",
-		"image"	   : "Creps.jpg",
-	    "url"      : "/receptari/recipes/Creps.html"
-      
+
+		  
+		    "tags" : "Postre, ",
+		  
+
+		  
+		    "ingredients" : "125g de farina de força, 200ml de llet, 2 ous, 35g de mantega, 1 cullerada de sucre, ",
+		  
+
+      "image"	   : "Creps.jpg",
+      "url"      : "https://lamevacuina.github.io/receptari/recipes/Creps.html"
     } ,
   
     {
-    
 	    "title"    : "Croquetes de bolets",
-		"ingredients"    : "una ceba, all, mantega, farina, llet a saturació, boletus (una bossa), ou, farina de galeta, oli, ",
-		"image"	   : "Croquetes_de_bolets.jpg",
-	    "url"      : "/receptari/recipes/Croquetes%20de%20bolets.html"
-      
+
+		  
+		    "tags" : "Entrant, ",
+		  
+
+		  
+		    "ingredients" : "una ceba, all, mantega, farina, llet a saturació, boletus (una bossa), ou, farina de galeta, oli, ",
+		  
+
+      "image"	   : "Croquetes_de_bolets.jpg",
+      "url"      : "https://lamevacuina.github.io/receptari/recipes/Croquetes%20de%20bolets.html"
     } ,
   
     {
-    
 	    "title"    : "Flams",
-		"ingredients"    : "1/2l de llet, 4 ous, 125g de sucre, ",
-		"image"	   : "Flams.jpg",
-	    "url"      : "/receptari/recipes/Flams.html"
-      
+
+		  
+		    "tags" : "Postres, ",
+		  
+
+		  
+		    "ingredients" : "1/2l de llet, 4 ous, 125g de sucre, ",
+		  
+
+      "image"	   : "Flams.jpg",
+      "url"      : "https://lamevacuina.github.io/receptari/recipes/Flams.html"
     } ,
   
     {
-    
 	    "title"    : "Galetes de mantega",
-		"ingredients"    : "125g de mantega, 125g de sucre glaç, 1 ou, 2 cullerades de vainilla, 300g de farina, ",
-		"image"	   : "",
-	    "url"      : "/receptari/recipes/Galetes%20de%20mantega.html"
-      
+
+		  
+		    "tags" : "Postres,, Nadal, ",
+		  
+
+		  
+		    "ingredients" : "125g de mantega, 125g de sucre glaç, 1 ou, 2 cullerades de vainilla, 300g de farina, ",
+		  
+
+      "image"	   : "",
+      "url"      : "https://lamevacuina.github.io/receptari/recipes/Galetes%20de%20mantega.html"
     } ,
   
     {
-    
 	    "title"    : "Lioneses",
-		"ingredients"    : "150g de farina fluixa (bizcochona), 100g de mantega, 3 ous, 125ml aigua, 125ml llet, ",
-		"image"	   : "Lioneses.jpg",
-	    "url"      : "/receptari/recipes/Lioneses.html"
-      
+
+		  
+		    "tags" : "Postre, ",
+		  
+
+		  
+		    "ingredients" : "150g de farina fluixa (bizcochona), 100g de mantega, 3 ous, 125ml aigua, 125ml llet, ",
+		  
+
+      "image"	   : "Lioneses.jpg",
+      "url"      : "https://lamevacuina.github.io/receptari/recipes/Lioneses.html"
     } ,
   
     {
-    
 	    "title"    : "Pa de pessic",
-		"ingredients"    : "4 ous, 100g de farina, 100g de sucre, Una culleradeta de llevat tipus Royal, ",
-		"image"	   : "Pa_de_pessic.jpg",
-	    "url"      : "/receptari/recipes/Pa%20de%20pessic.html"
-      
+
+		  
+		    "tags" : "Postres, ",
+		  
+
+		  
+		    "ingredients" : "4 ous, 100g de farina, 100g de sucre, Una culleradeta de llevat tipus Royal, ",
+		  
+
+      "image"	   : "Pa_de_pessic.jpg",
+      "url"      : "https://lamevacuina.github.io/receptari/recipes/Pa%20de%20pessic.html"
     } ,
   
     {
-    
 	    "title"    : "Panellets",
-		"ingredients"    : "250g farina d&#39;ametlla, 250g de sucre, dues patates petites, cireres comfitades, coco ratllat, essència de llimona, 100g ametlla a cuadrets, 50g de pinyons, 1 ou, ",
-		"image"	   : "Panellets.jpg",
-	    "url"      : "/receptari/recipes/Panellets.html"
-      
+
+		  
+		    "tags" : "Postre, ",
+		  
+
+		  
+		    "ingredients" : "250g farina d&#39;ametlla, 250g de sucre, dues patates petites, cireres comfitades, coco ratllat, essència de llimona, 100g ametlla a cuadrets, 50g de pinyons, 1 ou, ",
+		  
+
+      "image"	   : "Panellets.jpg",
+      "url"      : "https://lamevacuina.github.io/receptari/recipes/Panellets.html"
     } ,
   
     {
-    
 	    "title"    : "Pastís de Mousse",
-		
-		"image"	   : "Pastís_de_Mousse.jpg",
-	    "url"      : "/receptari/recipes/Past%C3%ADs%20de%20Mousse.html"
-      
+
+		  
+		    "tags" : "Postres, ",
+		  
+
+		  
+
+      "image"	   : "Pastís_de_Mousse.jpg",
+      "url"      : "https://lamevacuina.github.io/receptari/recipes/Past%C3%ADs%20de%20Mousse.html"
     } ,
   
     {
-    
 	    "title"    : "Pastís de formatge",
-		"ingredients"    : "2 iogurts, 3 ous, 3 cullerades de Maizena, 7 culledares de sucre, 1 cullerada de sucre de vainilla (_opcional_), 200g de formatge fresc pasteuritzat, ",
-		"image"	   : "Pastís_de_formatge.jpg",
-	    "url"      : "/receptari/recipes/Past%C3%ADs%20de%20formatge.html"
-      
+
+		  
+		    "tags" : "Postres, ",
+		  
+
+		  
+		    "ingredients" : "2 iogurts, 3 ous, 3 cullerades de Maizena, 7 culledares de sucre, 1 cullerada de sucre de vainilla (_opcional_), 200g de formatge fresc pasteuritzat, ",
+		  
+
+      "image"	   : "Pastís_de_formatge.jpg",
+      "url"      : "https://lamevacuina.github.io/receptari/recipes/Past%C3%ADs%20de%20formatge.html"
     } ,
   
     {
-    
 	    "title"    : "Xuxos de Crema",
-		
-		"image"	   : "Xuxos_de_Crema.jpg",
-	    "url"      : "/receptari/recipes/Xuxos%20de%20Crema.html"
-      
+
+		  
+		    "tags" : "Postres, ",
+		  
+
+		  
+
+      "image"	   : "Xuxos_de_Crema.jpg",
+      "url"      : "https://lamevacuina.github.io/receptari/recipes/Xuxos%20de%20Crema.html"
     } 
   
 ]

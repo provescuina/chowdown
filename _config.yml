@@ -1,10 +1,9 @@
 # Site settings
 title: Receptari
 email: correuperamerda@hotmail.com
-description: The plain text recipe database for hackers
-baseurl: "/receptari"
-twitter_username: clarklab
-github_username:  clarklab
+description: The plain text recipe database for Carminas
+baseurl: "https://lamevacuina.github.io/receptari"
+github_username: lamevacuina
 
 # Build settings
 markdown: kramdown

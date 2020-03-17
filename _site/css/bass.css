@@ -552,7 +552,6 @@ h6, .h6 { font-size: .75rem }
   clip: rect(4px, 4px, 4px, 4px);
 }
 
-
 .relative { position: relative }
 .absolute { position: absolute }
 .fixed    { position: fixed }
@@ -1255,3 +1254,16 @@ input[type=range] {
 .border-darken-3 { border-color: rgba(0,0,0,.25) }
 .border-darken-4 { border-color: rgba(0,0,0,.5) }
 .muted { opacity: .5 }
+
+.select-scale {
+  display: inline;
+}
+
+.select-scale:before {
+  content: 'Scale';
+  color: black;
+}
+
+.shadow-black {
+  text-shadow: 3px 3px 2px #000000;
+}

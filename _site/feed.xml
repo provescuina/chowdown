@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Receptari</title>
-    <description>The plain text recipe database for hackers</description>
-    <link>/receptari/</link>
-    <atom:link href="/receptari/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Nov 2019 11:51:25 +0100</pubDate>
-    <lastBuildDate>Sat, 30 Nov 2019 11:51:25 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <description>The plain text recipe database for Carminas</description>
+    <link>http://localhost:4000https://lamevacuina.github.io/receptari/</link>
+    <atom:link href="http://localhost:4000https://lamevacuina.github.io/receptari/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 Mar 2020 00:54:28 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2020 00:54:28 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Creps</title>
         <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/Creps.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Creps.html</guid>
+        <link>http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Creps.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Creps.html</guid>
         
         <category>Postre</category>
         
@@ -25,8 +25,8 @@
         <title>Croquetes de bolets</title>
         <description>&lt;p&gt;From Carmina&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/Croquetes%20de%20bolets.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Croquetes%20de%20bolets.html</guid>
+        <link>http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Croquetes%20de%20bolets.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Croquetes%20de%20bolets.html</guid>
         
         <category>Entrant</category>
         
@@ -37,8 +37,8 @@
         <title>Flams</title>
         <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/Flams.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Flams.html</guid>
+        <link>http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Flams.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Flams.html</guid>
         
         <category>Postres</category>
         
@@ -49,8 +49,8 @@
         <title>Galetes de mantega</title>
         <description>&lt;p&gt;From Laura&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/Galetes%20de%20mantega.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Galetes%20de%20mantega.html</guid>
+        <link>http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Galetes%20de%20mantega.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Galetes%20de%20mantega.html</guid>
         
         <category>Postres,</category>
         
@@ -63,8 +63,8 @@
         <title>Lioneses</title>
         <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/Lioneses.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Lioneses.html</guid>
+        <link>http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Lioneses.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Lioneses.html</guid>
         
         <category>Postre</category>
         
@@ -75,8 +75,8 @@
         <title>Pa de pessic</title>
         <description>&lt;p&gt;From Carmina&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/Pa%20de%20pessic.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Pa%20de%20pessic.html</guid>
+        <link>http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Pa%20de%20pessic.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Pa%20de%20pessic.html</guid>
         
         <category>Postres</category>
         
@@ -87,8 +87,8 @@
         <title>Panellets</title>
         <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/Panellets.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Panellets.html</guid>
+        <link>http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Panellets.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Panellets.html</guid>
         
         <category>Postre</category>
         
@@ -99,8 +99,8 @@
         <title>Pastís de Mousse</title>
         <description>&lt;p&gt;From Carmina&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/Past%C3%ADs%20de%20Mousse.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Past%C3%ADs%20de%20Mousse.html</guid>
+        <link>http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Past%C3%ADs%20de%20Mousse.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Past%C3%ADs%20de%20Mousse.html</guid>
         
         <category>Postres</category>
         
@@ -111,8 +111,8 @@
         <title>Pastís de formatge</title>
         <description>&lt;p&gt;From Albert&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/Past%C3%ADs%20de%20formatge.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Past%C3%ADs%20de%20formatge.html</guid>
+        <link>http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Past%C3%ADs%20de%20formatge.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Past%C3%ADs%20de%20formatge.html</guid>
         
         <category>Postres</category>
         
@@ -123,8 +123,8 @@
         <title>Xuxos de Crema</title>
         <description>&lt;p&gt;From Carmina&lt;/p&gt;
 </description>
-        <link>/receptari/recipes/Xuxos%20de%20Crema.html</link>
-        <guid isPermaLink="true">/receptari/recipes/Xuxos%20de%20Crema.html</guid>
+        <link>http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Xuxos%20de%20Crema.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://lamevacuina.github.io/receptari/recipes/Xuxos%20de%20Crema.html</guid>
         
         <category>Postres</category>
         

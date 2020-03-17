@@ -2,7 +2,19 @@
 layout: default
 ---
 
-<div class="home"> 
+<div class="home">
+
+  <!--<div class="green center">-->
+    <!--<a href="{{ site.baseurl }}/search" class="button button-big button-with-icon button-outline mb4 h2" style="position:fixed; background:white">-->
+      <!--<svg class="js-geomicon geomicon" width="30" data-icon="search" viewBox="0 0 32 32" style="fill:currentcolor"><title>Search</title><path d="M12 0 A12 12 0 0 0 0 12 A12 12 0 0 0 12 24 A12 12 0 0 0 18.5 22.25 L28 32 L32 28 L22.25 18.5 A12 12 0 0 0 24 12 A12 12 0 0 0 12 0 M12 4 A8 8 0 0 1 12 20 A8 8 0 0 1 12 4"></path></svg>-->
+       <!--Search</a>-->
+    <!--</div>-->
+
+  <!--<div class="orange center">-->
+    <!--<a href="{{ site.baseurl }}/tags" class="button button-big button-with-icon button-outline mb4 h2" style="position:fixed; background:white">-->
+      <!--<svg class="js-geomicon geomicon" width="30" data-icon="search" viewBox="0 0 32 32" style="fill:currentcolor"><title>Tags</title><path d="M0 18 L16 2 L29 3 L30 16 L14 32 z M20 9 A3 3 0 0 0 26 9 A3 3 0 0 0 20 9"></path></svg>-->
+       <!--Tags</a>-->
+    <!--</div>-->
 
   <div class="recipes xs-px1 xs-mt2">
     <div class="clearfix">
@@ -12,9 +24,40 @@ layout: default
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
           <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
             <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
-            <h1 class="title p2 m0 absolute bold white bottom-0 left-0">{{ post.title }}</h1>
+            <h1 class="title shadow-black p2 m0 absolute bold white bottom-0 left-0">{{ post.title }}</h1>
           </a>
       </div>
     {% endfor %}
+    <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
+      <a class="block relative bg-blue" href="new.html">
+        <div class="image ratio bg-cover" style="background-image:url({{site.baseurl}}/assets/new.png);"></div>
+      </a>
   </div>
+  </div>
+  </div>
+
+  <div class="sell bg-blue-tile mt4">
+    <div class="clearfix white px2">
+      <div class="sm-col md-col-6 px2 md-px4 py2 md-py4">
+        <h1>Chowdown</h1>
+        <p>This site was engineered by Clark <a href="http://twitter.com/clarklab">@clarklab</a></p>
+        <p>and extended by <a href="https://github.com/philipnelson5">philipnelson5</a>.</p>
+        <p>These are the recipes I have collected over the years.</p>
+      </div>
+    </div>
+
+    <div class="clearfix white center">
+      <a href="https://github.com/jkhughlett/chowdown" class="button button-big button-with-icon button-outline mb4 h2">
+            <svg class="js-geomicon geomicon" width="30" data-icon="github" viewBox="0 0 32 32" style="fill:currentcolor"><title>github icon</title><path d="M0 18 C0 12 3 10 3 9 C2.5 7 2.5 4 3 3 C6 3 9 5 10 6 C12 5 14 5 16 5 C18 5 20 5 22 6 C23 5 26 3 29 3 C29.5 4 29.5 7 29 9 C29 10 32 12 32 18 C32 25 30 30 16 30 C2 30 0 25 0 18 M3 20 C3 24 4 28 16 28 C28 28 29 24 29 20 C29 16 28 14 16 14 C4 14 3 16 3 20 M8 21 A1.5 2.5 0 0 0 13 21 A1.5 2.5 0 0 0 8 21 M24 21 A1.5 2.5 0 0 0 19 21 A1.5 2.5 0 0 0 24 21 z"></path></svg>
+          View this page on GitHub</a>
+      <a href="https://github.com/clarklab/chowdown" class="button button-big button-with-icon button-outline mb4 h2">
+            <svg class="js-geomicon geomicon" width="30" data-icon="github" viewBox="0 0 32 32" style="fill:currentcolor"><title>github icon</title><path d="M0 18 C0 12 3 10 3 9 C2.5 7 2.5 4 3 3 C6 3 9 5 10 6 C12 5 14 5 16 5 C18 5 20 5 22 6 C23 5 26 3 29 3 C29.5 4 29.5 7 29 9 C29 10 32 12 32 18 C32 25 30 30 16 30 C2 30 0 25 0 18 M3 20 C3 24 4 28 16 28 C28 28 29 24 29 20 C29 16 28 14 16 14 C4 14 3 16 3 20 M8 21 A1.5 2.5 0 0 0 13 21 A1.5 2.5 0 0 0 8 21 M24 21 A1.5 2.5 0 0 0 19 21 A1.5 2.5 0 0 0 24 21 z"></path></svg>
+          View original on GitHub</a>
+      </div>
+  </div>
+
+  <div class="container mt4 mb4">
+    <div class="sm-col-6 mx-auto px3 sm-px4"></div>
+  </div>
+
 </div>

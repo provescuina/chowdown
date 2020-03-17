@@ -21,13 +21,16 @@ layout: default
 
 <!-- call up the main recipe title and content -->
   <header class="post-header">
-    <h1 class="post-title center m1 sm-mt3" itemprop="name">{{ page.title }}</h1>
+    <h1 class="post-title center m1 sm-mt3" itemprop="name">
+      {{ page.title }}
+        <a href="#" id="edit">(Edit)</a>
+    </h1>
   </header>
 
   <div class="px2 mt3 clearfix">
     <div class="sm-col-8 center mx-auto" itemprop="description">{{page.content}}</div>
   </div>
-  
+
 <!-- call up recipe and directions -->
   <div class="clearfix mt3">
   
@@ -43,8 +46,22 @@ layout: default
       </ul>
       {% endif %}
 
+      {% if page.recipeYield %}
+      <h4 class="blue mt0 mb2 xs-center">Yield</h4>
+      <div class="mt0 mb2 xs-center" itemprop="yield">{{page.recipeYield}}</div>
+      {% endif %}
+  
       {% if page.ingredients %}
       <h4 class="blue mt0 mb2 xs-center">Ingredients</h4>
+      <div id='scaleSelect' , align="left" , class="select-scale">
+        <select name="selectRecipeScale" , onchange="liveScaleRecipe.call(this, event)">
+          <option value=0.5>&frac12;</option>
+          <option selected value=1>1</option>
+          <option value=1.5>1 &frac12;</option>
+          <option value=2>2</option>
+          <option value=3>3</option>
+        </select>
+      </div>
       <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
         {% for ingredient in page.ingredients %}
@@ -55,10 +72,11 @@ layout: default
     </div>
     
     <div class="sm-col sm-col-6 lg-col-6">
+
       <h4 class="blue mt0 mb2 xs-center">Directions</h4>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
-        <li>{{ direction | markdownify }}</li>
+        <li itemprop="recipeInstruction">{{ direction | markdownify }}</li>
         {% endfor %}
       </ul>
     </div>
@@ -66,12 +84,10 @@ layout: default
   </div>
 <!-- end recipe and directions -->
 
-<!-- check if it's a component-based recipe, render it 
+<!-- check if it's a component-based recipe, render it -->
   {% if page.components %}
   
-  <div class="components bg-darken-2 p2 mt3 mb3 center">
-    &darr; This is a <strong class="blue">component-based recipe</strong> (fancy talk for making the dish in pieces, then assembling). &darr;
-  </div>-->
+  <div class="components bg-darken-2 p2 mt3 mb3 center"> </div>
   
   <div class="clearfix mxn2">
   {% for component in page.components %}
@@ -103,7 +119,7 @@ layout: default
       <h4 class="blue regular xs-center">Steps</h4>
         <ul itemprop="instructions">
         {% for item in recipe.directions %}
-        <li>{{ item | markdownify }}</li>
+        <li itemprop="instruction">{{ item | markdownify }}</li>
         {% endfor %}
       </ul>
           
@@ -148,5 +164,53 @@ layout: default
   });
 
   });
+
+  $('#edit').on('click', function() {
+    const path = "{{ page.path }}";
+    const title = "{{ page.title }}";
+    const image = "{{ page.image }}";
+    const servings = "{{ page.recipeYield }}";
+
+    let tags = "";
+    {% for tag in page.tags %}
+      tags += "{{ tag }} ";
+    {% endfor %}
+
+    let ingredients = [];
+    {% for ingredient in page.ingredients %}
+      ingredients.push("{{ingredient}}");
+    {% endfor %}
+
+    let directions = [];
+    {% for direction in page.directions %}
+      directions.push("{{direction}}");
+    {% endfor %}
+
+    let components = [];
+    {% if page.components %}
+    {% for component in page.components %}
+      components.push("{{component}}");
+    {% endfor %}
+    {% endif %}
+
+    const description = $('div[itemprop="description"]').text();
+
+    const json = JSON.stringify({
+      path: path,
+      title: title,
+      image: image,
+      tags: tags,
+      servings: servings,
+      ingredients: ingredients,
+      directions: directions,
+      components: components,
+      description: description,
+    });
+
+    localStorage.setItem("recipe", json);
+    window.location.href = "{{ site.baseurl }}/edit.html";
+  });
   
 </script>
+
+<script src="{{ site.baseurl }}/js/scale_recipes.js"></script>
