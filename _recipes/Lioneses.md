@@ -1,9 +1,9 @@
 ---
 
 layout: recipe
-title: "Lioneses"
+title: Lioneses
 image: Lioneses.jpg
-tags: Postre
+tags: Postres 
 recipeYield: +20 lioneses, o 1 Albert salvaje
 
 ingredients:
@@ -21,6 +21,7 @@ directions:
 - Previament hem escalfat el forn a 200ºC. Posem la massa en una màniga pastissera, i les hi donem forma. Les courem 20 min amb el forn d'abaix perquè pugin, i 5 min de dalt i de baix perquè se'ns daurin. _IMPORTANT_ Fer-les d'una mida relativament petites, tenint en compte que s'inflaran depenent de com les hagis airejat (a no ser que t'apassionin les pilotes de tennis... Lluna).
 - Deixem refredar la fornada i farcir-les al gust d'un.
 
----
+components:
 
+---
 From Albert
