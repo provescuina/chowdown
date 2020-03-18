@@ -1,9 +1,10 @@
 ---
 
 layout: recipe
-title: "Panellets"
+title: Panellets
 image: Panellets.jpg
-tags: Postre
+tags: Postres 
+recipeYield: 
 
 ingredients:
 - 250 g farina d'ametlla
@@ -24,9 +25,10 @@ directions:
 - Fem unes boletes que al mig hi posarem la meitat d'una cirera.
 - També els podem fer de llimona, posen una part de la massa unes gotetes d'essència de llimona.
 - Podem barrrejar també part de la massa amb coco ratllat i donar-los forma de volcà.
-- Finalment es posen a la llauna i al forn , posem el grill perquè es dorin, cal vigilar molt que no es cremin perquè estaran pocs minuts al forn. 
+- Finalment es posen a la llauna i al forn , posem el grill perquè es dorin, cal vigilar molt que no es cremin perquè estaran pocs minuts al forn.
 - Un cop rossos els treiem i els deixem refredar. Un cop freds es poden treure de la llauna i els emplatem ben bonics!
 
----
+components:
 
+---
 From Albert
