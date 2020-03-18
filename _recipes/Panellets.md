@@ -6,14 +6,14 @@ image: Panellets.jpg
 tags: Postre
 
 ingredients:
-- 250g farina d'ametlla
-- 250g de sucre
-- dues patates petites
+- 250 g farina d'ametlla
+- 250 g de sucre
+- 2 patates petites
 - cireres comfitades
 - coco ratllat
 - essència de llimona
-- 100g ametlla a cuadrets
-- 50g de pinyons
+- 100 g ametlla a cuadrets
+- 50 g de pinyons
 - 1 ou
 
 directions:

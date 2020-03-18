@@ -6,10 +6,10 @@ image: Creps.jpg
 tags: Postre
 
 ingredients:
-- 125g de farina de força
-- 200ml de llet
+- 125 g de farina de força
+- 200 ml de llet
 - 2 ous
-- 35g de mantega
+- 35 g de mantega
 - 1 cullerada de sucre
 
 directions:

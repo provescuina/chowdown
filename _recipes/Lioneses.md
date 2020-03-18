@@ -6,11 +6,11 @@ image: Lioneses.jpg
 tags: Postre
 
 ingredients:
-- 150g de farina fluixa (bizcochona)
-- 100g de mantega
+- 150 g de farina fluixa (bizcochona)
+- 100 g de mantega
 - 3 ous
-- 125ml aigua
-- 125ml llet
+- 125 ml aigua
+- 125 ml llet
 
 directions:
 - Posem en un pot l'aigua, llet i la mantega fins que arrenqui el bull, i li tirem un pensament de sal.

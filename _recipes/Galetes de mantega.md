@@ -6,11 +6,11 @@ image:
 tags: Postres, Nadal
 
 ingredients:
-- 125g de mantega
-- 125g de sucre glaç
+- 125 g de mantega
+- 125 g de sucre glaç
 - 1 ou
 - 2 cullerades de vainilla
-- 300g de farina
+- 300 g de farina
 
 directions:
 - Es posa a la batadora la mantega, si afegeix el sucre, després l'ou, l'essència i poc a poc la farina i un pensament de sal.

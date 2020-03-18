@@ -7,9 +7,9 @@ tags: Postres
 
 ingredients:
 - 4 ous
-- 100g de farina
-- 100g de sucre
-- Una culleradeta de llevat tipus Royal
+- 100 g de farina
+- 100 g de sucre
+- 1 culleradeta de llevat tipus Royal
 
 directions:
 - Es separen les rovells de les clares.

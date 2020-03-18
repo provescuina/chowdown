@@ -6,7 +6,7 @@ image: Croquetes_de_bolets.jpg
 tags: Entrant
 
 ingredients:
-- una ceba
+- 1 ceba
 - all
 - mantega
 - farina
