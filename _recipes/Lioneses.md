@@ -5,6 +5,8 @@ title: "Lioneses"
 image: Lioneses.jpg
 tags: Postre
 
+recipeYield:
+
 ingredients:
 - 150 g de farina fluixa (bizcochona)
 - 100 g de mantega
