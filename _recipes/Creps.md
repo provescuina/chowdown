@@ -1,9 +1,10 @@
 ---
 
 layout: recipe
-title: "Creps"
+title: Creps
 image: Creps.jpg
-tags: Postre
+tags: Postres 
+recipeYield: 
 
 ingredients:
 - 125 g de farina de força
@@ -16,6 +17,7 @@ directions:
 - Barrejar tots els ingredients en un pot fins que la massa sigui homogènia.
 - Coure les creps en una paella amb una mica de mantega perquè no s'enganxin.
 
----
+components:
 
+---
 From Albert
