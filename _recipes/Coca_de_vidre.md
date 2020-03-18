@@ -3,7 +3,7 @@
 layout: recipe
 title: Coca de vidre
 image: Coca_de_vidre.jpg
-tags: postres 
+tags: postres
 recipeYield: +4 persones
 
 ingredients:
