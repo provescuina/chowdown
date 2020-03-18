@@ -168,7 +168,7 @@ layout: default
                     console.error('An error occurred when submitting the file');
                     alert('An error occurred when submitting the file');
                 } else {
-                    window.location.href = '/';
+                    window.location.href = '/receptari';
                 }
                 $('#loadingModal').modal('hide');
             }
@@ -211,7 +211,7 @@ layout: default
         result += 'layout: recipe\n';
         result += 'title: ' + $('#title').val().replace(/:/g, '') + '\n';
         result += 'image: ' + image + '\n';
-        result += 'tags: ' + $('#tags').val().toLowerCase().replace(/:/g, '') + '\n';
+        result += 'tags: ' + $('#tags').val().replace(/:/g, '') + '\n';
         result += 'recipeYield: ' + $('#servings').val().replace(/:/g, '') + '\n';
         result += '\n';
 
