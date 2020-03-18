@@ -3,10 +3,7 @@
 layout: recipe
 title: "Lioneses"
 image: Lioneses.jpg
-imagecredit:
-
 tags: Postre
-
 recipeYield: +20 lioneses, o 1 Albert salvaje
 
 ingredients:
