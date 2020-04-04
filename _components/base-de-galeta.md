@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Base de galeta
-image: base-de-galeta.jpg
+image:
 tags: 
 recipeYield: 
 
