@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Crema de llimona
-image: crema-de-llimona.jpg
+image:
 tags: 
 recipeYield: 
 
