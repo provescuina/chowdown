@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Mousse de llimona
-image: Mousse-de-llimona.jpg
+image:
 tags: postres
 recipeYield: 8 persones
 
