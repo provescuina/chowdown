@@ -1,9 +1,10 @@
 ---
 
 layout: recipe
-title: "Pastís de formatge"
+title: Pastís de formatge
 image: Pastís_de_formatge.jpg
-tags: Postres
+tags: Postres 
+recipeYield: 
 
 ingredients:
 - 2 iogurts
@@ -17,7 +18,10 @@ directions:
 - Barrejar tots els ingredients simultàniament fins que no quedin gromolls.
 - Aborcar a un motlle i posar al forn a 160º durant 30 minuts.
 - Deixar refredar i servir.
+- Opcionalment es pot servir sobre d'una base de galeta i cobrir de mermelada.
+
+components:
+- Base de galeta
 
 ---
-
 From Albert
