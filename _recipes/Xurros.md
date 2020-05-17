@@ -3,7 +3,7 @@
 layout: recipe
 title: Xurros
 image: Xurros.jpg
-tags: Esmorzar Berenar
+tags: Esmorzar Berenar 
 recipeYield: 6 persones
 
 ingredients:
@@ -18,7 +18,7 @@ ingredients:
 - oli per fregir
 
 directions:
-- En un pot posem l'aigua, la mantega, la sal, la ratalladura , la vainilla i el sucre. 
+- En un pot posem l'aigua, la mantega, la sal, la ratalladura, la vainilla i el sucre.
 - Es remena i es porta a ebullició.
 - Llavors tirem dins la barreja la farina de cop i remenem enèrgicament.
 - La massa s'ha de desprendre de les parets del cassó i la retirem del foc.
@@ -29,3 +29,4 @@ directions:
 components:
 
 ---
+
