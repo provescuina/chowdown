@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Crema de mantega
-image: crema-de-mantega.jpg
+image:
 tags: 
 
 ingredients:
