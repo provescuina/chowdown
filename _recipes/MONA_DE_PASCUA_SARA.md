@@ -3,7 +3,7 @@
 layout: recipe
 title: Mona de Pascua
 image: MONA_DE_PASCUA_SARA.jpg
-tags: Postres
+tags: Postres 
 recipeYield: 8
 
 ingredients:
@@ -15,7 +15,8 @@ directions:
 - Decorem amb plomes i ous de xocolata.
 
 components:
-- Base de pa de pessic
+- Pa de pessic
 - Crema de mantega
 
 ---
+
