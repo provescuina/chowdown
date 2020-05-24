@@ -14,7 +14,7 @@ ingredients:
 
 directions:
 - Tallem la base de pizza en diferens porcions.
-- Les estirem amb un porro.
+- Les estirem amb un corró.
 - Les posem damunt una safata untada en mantèga, i tirem sucre per sobre.
 - Enfornem a 180°. Un cop caramelitzat el sucre, retirem del forn i hi tirem anís per sobre.
 
