@@ -7,7 +7,7 @@ tags:
 recipeYield: 15
 
 ingredients:
-- 5 clares d'ou
+- 5 clares d'ou (IMPORTANT a temperatura ambient)
 - 300 g de sucre glas
 - un polsim de sal
 - una cullerada de Maizena
