@@ -1,9 +1,10 @@
 ---
 
 layout: recipe
-title: "Pa de pessic"
+title: Pa de pessic
 image: Pa_de_pessic.jpg
-tags: Postres
+tags: Postres 
+recipeYield: 
 
 ingredients:
 - 4 ous
@@ -20,6 +21,7 @@ directions:
 - Posem la barreja dins un motlle d'uns 24cm. Untat amb mantega i farina.
 - Posar-ho al forn a 180º i als 30 minuts mirar si el punxó surt sec.
 
----
+components:
 
+---
 From Carmina
