@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: Mona de Pascua
+title: Mona de Pasqua
 image: MONA_DE_PASCUA_SARA.jpg
 tags: Postres 
 recipeYield: 8
