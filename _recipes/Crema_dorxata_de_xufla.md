@@ -3,7 +3,7 @@
 layout: recipe
 title: Crema d'orxata de xufla
 image: Crema_dorxata_de_xufla.jpg
-tags: 
+tags: veggie
 recipeYield: 4
 
 ingredients:
@@ -25,4 +25,3 @@ directions:
 components:
 
 ---
-Veggie
