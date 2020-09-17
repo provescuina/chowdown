@@ -3,7 +3,7 @@
 layout: recipe
 title: Pastís de poma Dado
 image: Pastís_de_poma_Dado.jpg
-tags: postre
+tags: Postres 
 recipeYield: 8
 
 ingredients:
@@ -34,3 +34,4 @@ directions:
 components:
 
 ---
+
