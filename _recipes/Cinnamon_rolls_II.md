@@ -1,9 +1,9 @@
 ---
 
 layout: recipe
-title: Cinnamon rolls II
+title: Cinnamon rolls
 image: Cinnamon_rolls_II.jpg
-tags: Berenar
+tags: Berenar 
 recipeYield: 15 unitats
 
 ingredients:
@@ -24,7 +24,7 @@ directions:
 - Afegim el sucre i el llevat i seguim barrejant.
 - Seguidament afegim la meitat de la farina i amassem,anem afegin la resta mica en mica.
 - Afegim la mantega pomada i tornem a amassar.
-- Enfarime el taulell, posem la massa i seguim treballant finss que no s'enganxi.
+- Enfarinem el taulell, posem la massa i seguim treballant fins que no s'enganxi.
 - Fem una bola , al posem en un pot tapada amb film transparent i que reposi mitja hora,
 - Passat el temps l'estirem , fem una forma de rectangle i farcim.
 - Enrotllem i fem talls d'uns 5 cms els posem en una safata engreixada i tornem a deixar llevar.
@@ -33,3 +33,4 @@ directions:
 components:
 
 ---
+
