@@ -1,16 +1,17 @@
 ---
 
 layout: recipe
-title: "Croquetes de bolets"
+title: Croquetes de bolets
 image: Croquetes_de_bolets.jpg
-tags: Entrant
+tags: Entrant 
+recipeYield: 
 
 ingredients:
-- 1 ceba
-- all
-- mantega
-- farina
-- llet a saturació
+- 1/2 ceba
+- 1 all
+- 60 g mantega
+- 100 g farina
+- 450 ml de llet (a saturació)
 - boletus (una bossa)
 - ou
 - farina de galeta
@@ -22,6 +23,7 @@ directions:
 - En una altra paella hem posat els bolets a coure. Un cop cuits es barreja tot i es passa pel turmix. Es deixa refredar unes hores a la nevera.
 - Després farem boletes que passarem per ou batut i per farina de galeta. Les fregim fins que quedin ben rosses.
 
----
+components:
 
+---
 From Carmina
