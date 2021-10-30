@@ -1,9 +1,9 @@
 ---
 
 layout: recipe
-title: PASTIS GELAT DE COCO I LIMA
+title: Pastís gelat de coco i lima
 image: PASTIS_GELAT_DE_COCO_I_LIMA.jpg
-tags: vegan
+tags: vegan 
 recipeYield: 8
 
 ingredients:
