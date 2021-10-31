@@ -7,7 +7,7 @@ tags: Postres
 recipeYield: 
 
 ingredients:
-- 125 g de farina de força
+- 100 g de farina de força 
 - 200 ml de llet
 - 2 ous
 - 35 g de mantega
