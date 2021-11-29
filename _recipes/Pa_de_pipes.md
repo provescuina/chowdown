@@ -14,7 +14,7 @@ ingredients:
 - 1/2 cullerades de mel
 - 5 g de sal fina
 - Un pensament de sal gorda
-- 4 talls de tomàquet deshidratat [pendent de pesar]
+- 12 g de tomàquet deshidratat (4 talls)
 - orenga [pendent de pesar]
 - 4 g de llevat per a pa
 
@@ -26,3 +26,4 @@ directions:
 components:
 
 ---
+
