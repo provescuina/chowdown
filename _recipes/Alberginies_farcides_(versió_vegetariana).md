@@ -1,9 +1,9 @@
 ---
 
 layout: recipe
-title: Alberginies farcides (versió vegetariana)
+title: Alberginies farcides vegetarianes
 image: Alberginies_farcides_(versió_vegetariana).jpg
-tags: Veggie
+tags: Veggie 
 recipeYield: 4
 
 ingredients:
@@ -33,3 +33,4 @@ directions:
 components:
 
 ---
+
