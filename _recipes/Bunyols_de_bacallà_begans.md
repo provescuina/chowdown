@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title: Bunyols de bacallà begans
-image: Bunyols_de_bacallà_begans.jpg
+title: Bunyols de bacallà vegans
+image: Bunyols_de_bacallà_vegans.jpg
 tags: 
 recipeYield: 1-2
 
